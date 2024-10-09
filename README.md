@@ -9,12 +9,67 @@
 
 ### Source et justifications : 
 
-| Type           | Sources | URL     | Justification |
-|----------------|---------|---------|---------------|
-| Compte Twitter | Ligne 1 | Ligne 1 | Valeur 1      |
-|                | Ligne 2 | Ligne 2 | Valeur 4      |
-|                | Ligne 3 | Ligne 3 | Valeur 7      |
-| Site Web       | Ligne 4 | Ligne 4 | Valeur 2      |
-|                | Ligne 5 | Ligne 5 | Valeur 5      |
-|                | Ligne 6 | Ligne 6 | Valeur 8      |
+## Tableau avec regroupement de cellules
+
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Sources</th>
+    <th>URL</th>
+    <th>Justification</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Compte Twitter</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Sites Web</td>
+    <td>Spring Boot</td>
+    <td>
+        <a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Baeldung</td>
+    <td>
+        <a href="https://www.baeldung.com/follow">https://www.baeldung.com/follow</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan="3">Communautés</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
