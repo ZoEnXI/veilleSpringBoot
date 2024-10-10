@@ -24,7 +24,7 @@
     <th>Justification</th>
   </tr>
   <tr>
-    <td rowspan="7">Compte Twitter</td>
+    <td rowspan="11">Compte Twitter</td>
     <td>Spring Boot</td>
     <td>
         <a href="https://x.com/springboot">https://x.com/springboot</a>
@@ -79,6 +79,16 @@
     </td>
   </tr>
   <tr>
+    <td>Sergi Almar</td>
+    <td>
+        <a href="https://x.com/sergialmar">https://x.com/sergialmar</a>
+    </td>
+    <td>
+        Développeur Java spécialisé dans Spring Boot, à un site proposant des cours sur le framework 
+        <a href="https://spring.training/">Site web</a>
+    </td>
+  </tr>
+  <tr>
     <td>Michael T Minella</td>
     <td>
         <a href="https://x.com/michaelminella">https://x.com/michaelminella</a>
@@ -87,7 +97,34 @@
         Développeur du framework Spring, plus précisement Spring Security
         <a href="https://github.com/sjohnr">GitHub</a>
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>Thomas Risberg</td>
+    <td>
+        <a href="https://x.com/trisberg">https://x.com/trisberg</a>
+    </td>
+    <td>Développeur du framework Spring</td>
+  </tr>
+  <tr>
+    <td>Dave Syer</td>
+    <td>
+        <a href="https://x.com/david_syera">https://x.com/david_syera</a>
+    </td>
+    <td>
+        Développeur du framework Spring
+        <a href="https://spring.io/authors/dsyer">Post sur le blog du site officiel Spring</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Brian Clozel</td>
+    <td>
+        <a href="https://x.com/bclozel">https://x.com/bclozel</a>
+    </td>
+    <td>
+        Développeur du framework Spring
+        <a href="https://spring.io/authors/bclozel">Post sur le blog du site officiel Spring</a>
+    </td>
+  </tr>
   <tr>
     <td rowspan="3">Sites Web</td>
     <td>Spring Boot</td>
