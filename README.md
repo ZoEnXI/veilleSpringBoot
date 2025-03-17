@@ -49,13 +49,14 @@ Spring Boot est un framework largement adopté pour le développement d'applicat
 
 ### **3. Communautés et Ressources**
 
-| Type             | Lien                                                                                                            | Description                      |
-| ---------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=wduYdtUpcXo&list=PLMYF6NkLrdN--rFJP7dP7ZHLrFlEsJf8H) | Cours vidéo sur Spring Boot      |
-| **Communauté X** | 🔗 [Spring Boot Community](https://x.com/i/communities/1678803787803131909)                                     | Groupe d'échange sur Spring Boot |
-| **GitHub**       | 🔗 [Spring Boot Repository](https://github.com/spring-projects/spring-boot)                                     | Code source et contributions     |
-| **Podcast**      | 🎙️ [Podcast 1](https://open.spotify.com/episode/0cLpaMzV3d4SozMALIja9j)                                        | Épisode sur l'évolution de Spring Boot |
-| **Podcast**      | 🎙️ [Podcast 2](https://open.spotify.com/episode/0sHvLXeEq4AbniUMC3bIV5)                                        | Entretien avec un expert Spring Boot |
+| Type             | Lien                                                                                                           | Description                           |
+|------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=wduYdtUpcXo&list=PLMYF6NkLrdN--rFJP7dP7ZHLrFlEsJf8H) | Cours vidéo sur Spring Boot           |
+| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=SE6Yn0F4xsE&list=PLgGXSWYM2FpNjXSFUQfFyXmFk3ENUZMGL) | Podcast sur Spring Boot               |
+| **Communauté X** | 🔗 [Spring Boot Community](https://x.com/i/communities/1678803787803131909)                                    | Groupe d'échange sur Spring Boot      |
+| **GitHub**       | 🔗 [Spring Boot Repository](https://github.com/spring-projects/spring-boot)                                    | Code source et contributions          |
+| **Podcast**      | 🎙️ [Podcast 1](https://open.spotify.com/episode/0cLpaMzV3d4SozMALIja9j)                                       | Épisode sur l'évolution de Spring Boot |
+| **Podcast**      | 🎙️ [Podcast 2](https://open.spotify.com/episode/0sHvLXeEq4AbniUMC3bIV5)                                       | Entretien avec un expert Spring Boot  |
 
 ---
 
