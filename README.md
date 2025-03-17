@@ -51,9 +51,11 @@ Spring Boot est un framework largement adopté pour le développement d'applicat
 
 | Type             | Lien                                                                                                            | Description                      |
 | ---------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=wduYdtUpcXo\&list=PLMYF6NkLrdN--rFJP7dP7ZHLrFlEsJf8H) | Cours vidéo sur Spring Boot      |
+| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=wduYdtUpcXo&list=PLMYF6NkLrdN--rFJP7dP7ZHLrFlEsJf8H) | Cours vidéo sur Spring Boot      |
 | **Communauté X** | 🔗 [Spring Boot Community](https://x.com/i/communities/1678803787803131909)                                     | Groupe d'échange sur Spring Boot |
 | **GitHub**       | 🔗 [Spring Boot Repository](https://github.com/spring-projects/spring-boot)                                     | Code source et contributions     |
+| **Podcast**      | 🎙️ [Podcast 1](https://open.spotify.com/episode/0cLpaMzV3d4SozMALIja9j)                                        | Épisode sur l'évolution de Spring Boot |
+| **Podcast**      | 🎙️ [Podcast 2](https://open.spotify.com/episode/0sHvLXeEq4AbniUMC3bIV5)                                        | Entretien avec un expert Spring Boot |
 
 ---
 
@@ -70,3 +72,4 @@ Spring Boot est un framework largement adopté pour le développement d'applicat
 ## **Conclusion**
 
 Spring Boot est un framework incontournable pour le développement d’applications modernes en Java et Kotlin. Son adoption massive, sa flexibilité et son écosystème riche en font un choix stratégique pour les entreprises et les développeurs. Grâce aux sources listées ci-dessus, il est possible de se tenir informé des dernières évolutions et de progresser efficacement sur cette technologie.
+
