@@ -1,190 +1,76 @@
-# TP Veille
-## Technologie : Spring Boot 
+# **Veille Technologique : Spring Boot**
 
-### Justification du choix de la technologie :
+## **Pourquoi choisir Spring Boot ?**
 
-- Framework mis à jour / maintenu régulièrement
-- Extension du Framework Spring mais qui embarque d'autres frameworks et bibliothèques -> dev + simple
-- Utilisation de celui-ci en alternance 
-- Possibilité de l'utilisé avec Java et Kotlin 
-- Peut être utilisé pour construire des applications selon plusieurs architectures :
-  - monolithe 
-  - service
-  - événementiel
-  - SOA 
+Spring Boot est un framework largement adopté pour le développement d'applications en Java et Kotlin. Il simplifie la configuration et l'utilisation de l'écosystème Spring en intégrant divers outils et bibliothèques. Voici les principales raisons de son choix :
 
-### Source et justifications :
+- **Mises à jour régulières** : Spring Boot bénéficie d'un support actif et de mises à jour fréquentes.
+- **Facilité de développement** : Il simplifie l'utilisation du framework Spring en intégrant des fonctionnalités prêtes à l'emploi.
+- **Polyvalence** : Il permet de construire différentes architectures d'applications :
+  - **Monolithique**
+  - **Microservices**
+  - **Événementielle**
+  - **SOA (Service-Oriented Architecture)**
+- **Compatibilité multi-langage** : Utilisation possible avec **Java** et **Kotlin**.
+- **Écosystème riche** : Support natif de bibliothèques populaires comme Spring Security, Spring Data, etc.
 
-<table>
-    <tr>
-      <th>Type</th>
-      <th>Sources</th>
-      <th>URL</th>
-      <th>Justification</th>
-    </tr>
-    <tr>
-      <td rowspan="11">Compte X</td>
-      <td>Spring Boot</td>
-      <td>
-          <a href="https://x.com/springboot">https://x.com/springboot</a>
-      </td>
-      <td>Compte officiel du framework</td>
-    </tr>
-    <tr>
-      <td>Baeldung</td>
-      <td>
-          <a href="https://x.com/baeldung">https://x.com/baeldung</a>
-      </td>
-      <td>Compte officiel du site qui est spécialisé dans SpringBoot pour Java</td>
-    </tr>
-    <tr>
-      <td>Phillip Webb</td>
-      <td>
-          <a href="https://x.com/phillip_webb">https://x.com/phillip_webb</a>
-      </td>
-      <td>
-          Développeur du framework
-          <a href="https://github.com/philwebb">GitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Maciej Walkowiak</td>
-      <td>
-          <a href="https://x.com/maciejwalkowiak">https://x.com/maciejwalkowiak</a>
-      </td>
-      <td>
-          Développeur spécialisé Java Spring Boot / Createur de contenu
-          <a href="https://maciejwalkowiak.com/">Site internet</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Moritz Halbritter</td>
-      <td>
-          <a href="https://x.com/m_halbritter">https://x.com/m_halbritter</a>
-      </td>
-      <td>
-          Développeur du framework Spring Boot
-          <a href="https://mhalbritter.github.io/">Site internet</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Steve Riesenberg</td>
-      <td>
-          <a href="https://x.com/sjohnr">https://x.com/sjohnr</a>
-      </td>
-      <td>
-          Développeur du framework Spring, plus précisement Spring Security
-          <a href="https://github.com/sjohnr">GitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Sergi Almar</td>
-      <td>
-          <a href="https://x.com/sergialmar">https://x.com/sergialmar</a>
-      </td>
-      <td>
-          Développeur Java spécialisé dans Spring Boot, à un site proposant des cours sur le framework 
-          <a href="https://spring.training/">Site web</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Michael T Minella</td>
-      <td>
-          <a href="https://x.com/michaelminella">https://x.com/michaelminella</a>
-      </td>
-      <td>
-          Développeur du framework Spring, plus précisement Spring Security
-          <a href="https://github.com/sjohnr">GitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Thomas Risberg</td>
-      <td>
-          <a href="https://x.com/trisberg">https://x.com/trisberg</a>
-      </td>
-      <td>Développeur du framework Spring</td>
-    </tr>
-    <tr>
-      <td>Dave Syer</td>
-      <td>
-          <a href="https://x.com/david_syera">https://x.com/david_syera</a>
-      </td>
-      <td>
-          Développeur du framework Spring
-          <a href="https://spring.io/authors/dsyer">Post sur le blog du site officiel Spring</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Brian Clozel</td>
-      <td>
-          <a href="https://x.com/bclozel">https://x.com/bclozel</a>
-      </td>
-      <td>
-          Développeur du framework Spring
-          <a href="https://spring.io/authors/bclozel">Post sur le blog du site officiel Spring</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3">Sites Web</td>
-      <td>Spring Boot</td>
-      <td>
-          <a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a>
-      </td>
-      <td>Documentation officel de Spring</td>
-    </tr>
-    <tr>
-      <td>Baeldung</td>
-      <td>
-          <a href="https://www.baeldung.com/follow">https://www.baeldung.com/follow</a>
-      </td>
-      <td>Site de cours et tutoriel sur Java et Spring Boot </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  <tr>
-      <td rowspan="3">Communautés</td>
-      <td></td>
-       <td>
-          <a href=""> </a>
-      </td>
-      <td></td>
-      <tr>
-        <td>Communauté X Spring Boot</td>
-         <td>
-            <a href="https://x.com/i/communities/1678803787803131909"> https://x.com/i/communities/1678803787803131909</a>
-        </td>
-        <td>Communauté X regroupant des devs Spring Boot</td>
-      </tr>
-    <tr>
-      <td>Repo Github</td>
-       <td>
-          <a href="https://github.com/spring-projects/spring-boot">https://github.com/spring-projects/spring-boot </a>
-      </td>
-      <td>Repo Github de Spring Boot</td>
-    </tr>
-    <tr>
-      <td rowspan="3">Evenements</td>
-      <td>Spring I/O</td>
-       <td>
-          <a href="https://2024.springio.net/"> https://2024.springio.net/</a>
-      </td>
-      <td>Conférence sur Spring à Barcelone </td>
-    </tr>
-    <tr>
-      <td>J Spring</td>
-       <td>
-          <a href="https://jspring.nl/"> https://jspring.nl/</a>
-      </td>
-      <td>Conférence sur Spring au Pays Bas</td>
-    </tr>
-    <tr>
-      <td>Spring One</td>
-       <td>
-          <a href="https://springone.io/">https://springone.io/ </a>
-      </td>
-      <td>Conférence sur Spring au Etats-Unis</td>
-    </tr>
-  </table>
+---
+
+## **Sources et Références**
+
+### **1. Comptes X influents sur Spring Boot**
+
+| Développeur / Ressource                            | Lien                                     | Justification                                                                          |
+| -------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Spring Boot (officiel)](https://x.com/springboot) | 🔗 [Lien](https://x.com/springboot)      | Compte officiel du framework                                                           |
+| [Baeldung](https://x.com/baeldung)                 | 🔗 [Lien](https://x.com/baeldung)        | Site spécialisé dans Spring Boot et Java                                               |
+| [Phillip Webb](https://x.com/phillip_webb)         | 🔗 [Lien](https://x.com/phillip_webb)    | Développeur du framework [GitHub](https://github.com/philwebb)                         |
+| [Maciej Walkowiak](https://x.com/maciejwalkowiak)  | 🔗 [Lien](https://x.com/maciejwalkowiak) | Développeur Java Spring Boot, créateur de contenu [Site](https://maciejwalkowiak.com/) |
+| [Moritz Halbritter](https://x.com/m_halbritter)    | 🔗 [Lien](https://x.com/m_halbritter)    | Développeur du framework Spring Boot [Site](https://mhalbritter.github.io/)            |
+| [Steve Riesenberg](https://x.com/sjohnr)           | 🔗 [Lien](https://x.com/sjohnr)          | Développeur Spring Security [GitHub](https://github.com/sjohnr)                        |
+| [Sergi Almar](https://x.com/sergialmar)            | 🔗 [Lien](https://x.com/sergialmar)      | Formateur spécialisé en Spring Boot [Cours](https://spring.training/)                  |
+| [Michael T Minella](https://x.com/michaelminella)  | 🔗 [Lien](https://x.com/michaelminella)  | Développeur Spring Batch                                                               |
+| [Thomas Risberg](https://x.com/trisberg)           | 🔗 [Lien](https://x.com/trisberg)        | Développeur du framework Spring                                                        |
+| [Dave Syer](https://x.com/david_syera)             | 🔗 [Lien](https://x.com/david_syera)     | Développeur Spring [Blog](https://spring.io/authors/dsyer)                             |
+| [Brian Clozel](https://x.com/bclozel)              | 🔗 [Lien](https://x.com/bclozel)         | Développeur Spring [Blog](https://spring.io/authors/bclozel)                           |
+
+---
+
+### **2. Sites Web & Documentation**
+
+| Site                                                                             | Lien                                              | Description                                  |
+| -------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------- |
+| [Spring Boot - Documentation officielle](https://spring.io/projects/spring-boot) | 🔗 [Lien](https://spring.io/projects/spring-boot) | Documentation complète du framework          |
+| [Baeldung](https://www.baeldung.com)                                             | 🔗 [Lien](https://www.baeldung.com)               | Tutoriels avancés sur Java et Spring Boot    |
+| [Spring Blog](https://spring.io/blog)                                            | 🔗 [Lien](https://spring.io/blog)                 | Articles officiels sur les nouveautés Spring |
+| [Spring Guides](https://spring.io/guides)                                        | 🔗 [Lien](https://spring.io/guides)               | Guides pratiques sur Spring Boot             |
+
+---
+
+### **3. Communautés et Ressources**
+
+| Type             | Lien                                                                                                            | Description                      |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **YouTube**      | 🎥 [Playlist Spring Boot](https://www.youtube.com/watch?v=wduYdtUpcXo\&list=PLMYF6NkLrdN--rFJP7dP7ZHLrFlEsJf8H) | Cours vidéo sur Spring Boot      |
+| **Communauté X** | 🔗 [Spring Boot Community](https://x.com/i/communities/1678803787803131909)                                     | Groupe d'échange sur Spring Boot |
+| **GitHub**       | 🔗 [Spring Boot Repository](https://github.com/spring-projects/spring-boot)                                     | Code source et contributions     |
+
+---
+
+### **4. Événements et Conférences**
+
+| Nom            | Lieu       | Lien                                  | Description                    |
+| -------------- | ---------- | ------------------------------------- | ------------------------------ |
+| **Spring I/O** | Barcelone  | 🔗 [Lien](https://2024.springio.net/) | Conférence dédiée à Spring     |
+| **J-Spring**   | Pays-Bas   | 🔗 [Lien](https://jspring.nl/)        | Événement Java et Spring       |
+| **Spring One** | États-Unis | 🔗 [Lien](https://springone.io/)      | Conférence annuelle officielle |
+
+---
+
+## **Conclusion**
+
+Spring Boot est un framework incontournable pour le développement d’applications modernes en Java et Kotlin. Son adoption massive, sa flexibilité et son écosystème riche en font un choix stratégique pour les entreprises et les développeurs. Grâce aux sources listées ci-dessus, il est possible de se tenir informé des dernières évolutions et de progresser efficacement sur cette technologie.
+
+
+
+
