@@ -70,7 +70,3 @@ Spring Boot est un framework largement adopté pour le développement d'applicat
 ## **Conclusion**
 
 Spring Boot est un framework incontournable pour le développement d’applications modernes en Java et Kotlin. Son adoption massive, sa flexibilité et son écosystème riche en font un choix stratégique pour les entreprises et les développeurs. Grâce aux sources listées ci-dessus, il est possible de se tenir informé des dernières évolutions et de progresser efficacement sur cette technologie.
-
-
-
-
